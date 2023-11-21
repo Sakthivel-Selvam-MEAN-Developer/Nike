@@ -4,7 +4,7 @@ const Running_Shoe = () => {
     return (
         <div className="container-fluid running-shoe mt-2" id='running-shoes'>
             <h3 className='text-center mb-4'>More Running Shoes</h3>
-            <div className="shoes d-flex overflow-x-scroll">
+            <div className="shoes d-flex overflow-scroll">
                 <div className="shoe ms-2 me-2">
                     <img src="./running-shoe-1.jfif" alt="shoe" />
                     <p className="shoe-name m-0">Nike Invinsible 3</p>

@@ -3,23 +3,23 @@ import './footer.css'
 const Footer = () => {
     return (
         <>
-            <footer className='ps-5 pe-5 bg-black mt-5 pt-3 pb-3' id='contact'>
+            <footer className='ps-5 pe-5 bg-dark mt-5 pt-3 pb-3' id='contact'>
                 <div className='d-flex align-items-center'>
                     <div className="brand">
                         <img src="./nike-2-logo-svgrepo-com.svg" alt="" width={80} />
                     </div>
                     <ul className="navbar-nav ms-auto me-auto mb-2 mb-lg-0 text-white d-flex">
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="#featured">New & Featured</a>
+                            <a className="nav-link active text-white" aria-current="page" href="#featured">New & Featured</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="#running-shoes">Running Shoes</a>
+                            <a className="nav-link active text-white" aria-current="page" href="#running-shoes">Running Shoes</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="#essentials">Essentials</a>
+                            <a className="nav-link active text-white" aria-current="page" href="#essentials">Essentials</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link active" aria-current="page" href="#contact">Contact</a>
+                            <a className="nav-link active text-white" aria-current="page" href="#contact">Contact</a>
                         </li>
                     </ul>
                     <ul className="navbar-nav ms-auto me-auto mb-2 mb-lg-0 text-white d-flex flex-md-row">
