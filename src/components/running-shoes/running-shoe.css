@@ -1,0 +1,26 @@
+.running-shoe p.shoe-name{
+    font-weight: 600;
+}
+.running-shoe img{
+    width: 400px;
+    margin-bottom: 10px;
+}
+.running-shoe p.for-shoe{
+    color: grey;
+}
+.running-shoe p.MRP{
+    font-weight:600 ;
+    margin: 10px 0 0 0 !important;
+}
+.running-shoe p.member-product{
+    color: #99470a;
+}
+.shoes::-webkit-scrollbar{
+    width: 5px;
+    height: 5px;
+
+  }
+.shoes::-webkit-scrollbar-thumb{
+    background-color: rgb(146, 146, 146);
+    border-radius: 10px;
+}

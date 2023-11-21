@@ -1,0 +1,19 @@
+.varaity img{
+    object-fit: cover;
+    object-position: center;
+    min-height:500px;
+    width: 100%;
+}
+.varaity button.position-absolute{
+    left: 25px;
+    bottom: 25px;
+    border: none;
+    background: rgba(255, 255, 255, 0.67);
+    padding: 7px 20px 10px;
+    border-radius: 100px;
+    color: rgb(0, 0, 0);
+}
+.varaity button.position-absolute:hover{
+    background-color: rgba(0, 0, 0, 0.672);
+    color: white;
+}

@@ -1,0 +1,21 @@
+.carousel-inner .carousel-item .carousel-caption h5{
+    font-size: 6rem !important;
+    font-variant: all-petite-caps;
+    filter:drop-shadow(2px 4px 6px black);
+    font-family: fantasy !important;
+    color: hsl(244, 64%, 44%);
+    font-weight: 500;
+}
+
+.carousel-inner .carousel-item:nth-child(2) .carousel-caption h5{
+    color: hsl(65.45deg 15.49% 58.24%);
+}
+.carousel-inner .carousel-item:nth-child(3) .carousel-caption h5{
+    color: #a06e53;
+}
+.carousel-inner .carousel-item:nth-child(4) .carousel-caption h5{
+    color: #6cc1f4;
+}
+.carousel-inner .carousel-item:nth-child(5) .carousel-caption h5{
+    color: #ffffffb5;
+}
