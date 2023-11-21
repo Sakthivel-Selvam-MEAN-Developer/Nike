@@ -21,7 +21,9 @@
 .body::-webkit-scrollbar-thumb{
     background-color: rgb(146, 146, 146);
 }
-
+.featured{
+    padding-top: 100px;
+}
 
 @media (max-width:450px) {
     .body img{

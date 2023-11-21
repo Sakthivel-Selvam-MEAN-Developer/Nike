@@ -9,6 +9,9 @@ html::-webkit-scrollbar{
   height: 10px;
 }
 html::-webkit-scrollbar-thumb{
-  background-color: rgb(146, 146, 146);
-  
+  background-color: rgb(146, 146, 146); 
+}
+
+html{
+  scroll-behavior: smooth;
 }
