@@ -22,7 +22,7 @@ const Footer = () => {
                             <a className="nav-link active" aria-current="page" href="#contact">Contact</a>
                         </li>
                     </ul>
-                    <ul className="navbar-nav ms-auto me-auto mb-2 mb-lg-0 text-white d-flex flex-row">
+                    <ul className="navbar-nav ms-auto me-auto mb-2 mb-lg-0 text-white d-flex flex-md-row">
                         <li className="nav-item ms-2 me-2">
                             <a className="nav-link active" aria-current="page" href="#featured">
                                 <img src="./facebook.svg" alt="facebook" width={35} />
