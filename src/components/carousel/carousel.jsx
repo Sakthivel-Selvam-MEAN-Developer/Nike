@@ -12,31 +12,31 @@ const Carousel = () => {
             </div>
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img src="./nike-1.webp" className="d-block w-100" alt="..." />
+                    <img src="./nike-1.webp" className="d-block w-100" alt="nike" />
                     <div className="carousel-caption d-none d-md-block">
                         <h5>Gifts that move you</h5>
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="./nike-2.jpg" className="d-block w-100" alt="..." />
+                    <img src="./nike-2.jpg" className="d-block w-100" alt="nike" />
                     <div className="carousel-caption d-none d-md-block">
                         <h5>nike pegasus trail gore-text</h5>
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="./nick-3.webp" className="d-block w-100" alt="..." />
+                    <img src="./nick-3.webp" className="d-block w-100" alt="nike" />
                     <div className="carousel-caption d-none d-md-block">
                         <h5>only in your city</h5>
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="./nick-4.webp" className="d-block w-100" alt="..." />
+                    <img src="./nick-4.webp" className="d-block w-100" alt="nike" />
                     <div className="carousel-caption d-none d-md-block">
                         <h5>speed beyond your wildest dream</h5>
                     </div>
                 </div>
                 <div className="carousel-item">
-                    <img src="./nick-5.webp" className="d-block w-100" alt="..." />
+                    <img src="./nick-5.webp" className="d-block w-100" alt="nike" />
                     <div className="carousel-caption d-none d-md-block">
                         <h5>flights essentials</h5>
                     </div>
